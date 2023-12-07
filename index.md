@@ -4,7 +4,7 @@ This is my home page! My name is Francine Alanon and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/falanon.
+My GitHub page is [http://github.com/falanon](http://github.com/falanon)
 
 ### CPSC 120
 
